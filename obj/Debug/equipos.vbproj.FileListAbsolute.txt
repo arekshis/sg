@@ -1,0 +1,39 @@
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\bin\Debug\equipos.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\bin\Debug\equipos.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\bin\Debug\equipos.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\obj\Debug\equipos.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\obj\Debug\equipos.Principal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\obj\Debug\equipos.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\obj\Debug\equipos.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\obj\Debug\equipos.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\obj\Debug\equipos.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\bin\Debug\Database1.sdf
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\bin\Debug\equipos.exe.config
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\obj\Debug\equipos.Agregar.resources
+C:\Users\sheby\Documents\Visual Studio 2008\Projects\Project2\equipos\equipos\bin\Debug\equipos.exe.config
+C:\Users\sheby\Documents\Visual Studio 2008\Projects\Project2\equipos\equipos\obj\Debug\equipos.exe
+C:\Users\sheby\Documents\Visual Studio 2008\Projects\Project2\equipos\equipos\obj\Debug\equipos.xml
+C:\Users\sheby\Documents\Visual Studio 2008\Projects\Project2\equipos\equipos\obj\Debug\equipos.pdb
+C:\Users\sheby\Documents\Visual Studio 2008\Projects\Project2\equipos\equipos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sheby\Documents\Visual Studio 2008\Projects\Project2\equipos\equipos\obj\Debug\equipos.Agregar.resources
+C:\Users\sheby\Documents\Visual Studio 2008\Projects\Project2\equipos\equipos\obj\Debug\equipos.Resources.resources
+C:\Users\sheby\Documents\Visual Studio 2008\Projects\Project2\equipos\equipos\obj\Debug\equipos.Principal.resources
+C:\Users\sheby\Documents\Visual Studio 2008\Projects\Project2\equipos\equipos\obj\Debug\equipos.vbproj.GenerateResource.Cache
+C:\Users\sheby\Documents\Visual Studio 2008\Projects\Project2\equipos\equipos\bin\Debug\Database1.sdf
+C:\Users\sheby\Documents\Visual Studio 2008\Projects\Project2\equipos\equipos\bin\Debug\equipos.exe
+C:\Users\sheby\Documents\Visual Studio 2008\Projects\Project2\equipos\equipos\bin\Debug\equipos.pdb
+C:\Users\sheby\Documents\Visual Studio 2008\Projects\Project2\equipos\equipos\bin\Debug\equipos.xml
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\equipos\bin\Debug\equipos.exe.config
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\equipos\obj\Debug\equipos.exe
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\equipos\obj\Debug\equipos.xml
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\equipos\obj\Debug\equipos.pdb
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\equipos\bin\Debug\Database1.sdf
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\equipos\bin\Debug\equipos.exe
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\equipos\bin\Debug\equipos.pdb
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\equipos\bin\Debug\equipos.xml
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\equipos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\equipos\obj\Debug\equipos.Agregar.resources
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\equipos\obj\Debug\equipos.Resources.resources
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\equipos\obj\Debug\equipos.Principal.resources
+C:\Documents and Settings\alex\Mis documentos\Visual Studio 2008\Projects\equipos\equipos\equipos\obj\Debug\equipos.vbproj.GenerateResource.Cache
